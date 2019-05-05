@@ -1,0 +1,71 @@
+
+/*
+Theme Name: Explore Hospitality Nepal
+Theme URI: https://nextaussie.com/
+Author: Sushan Paudyal
+Author URI: https://paudyalsushan.com/
+Description: This is the theme developed for the Explore Hospitality Training Center, Developed By Satish Nepal under the Guidance of Pratik Giri and Bibek Luitel
+Version: 1.0
+Text Domain: explore
+Tags:  explore, hopspitality, BHM, hotel management
+*/
+
+
+img.custom-logo{
+  width: 150px !important;
+}
+
+#fld_8768091_1,
+#fld_6009157_1,
+#fld_1677137_1{
+  border: 1px solid #e1e1e1 !important;
+}
+
+
+#fld_7908577_1{
+  color: #fff ;
+padding: 15px 45px;
+text-transform: capitalize;
+font-size: 15px;
+display: inline-block;
+vertical-align: middle;
+-webkit-transform: perspective(1px) translateZ(0);
+transform: perspective(1px) translateZ(0);
+box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+background: #C00301;
+position: relative;
+-webkit-transition-property: color;
+transition-property: color;
+-webkit-transition-duration: 0.5s;
+transition-duration: 0.5s;
+}
+
+
+form.searchform{
+  position: relative;
+}
+
+form.searchform #searchsubmit{
+  position: absolute;
+  top: 30px;
+  right: 0;
+  width: 56px;
+  height: 46px;
+  background-color: #a61206;
+  text-indent: -9999px;
+  background-image: url('assets/search.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  cursor: pointer;
+}
+
+form.searchform #s{
+  width: 100%;
+  padding: 13px;
+  border: 1px solid red !important;
+}
+
+#rpwwt-recent-posts-widget-with-thumbnails-2 h3{
+  margin-bottom: 10px !important;
+}

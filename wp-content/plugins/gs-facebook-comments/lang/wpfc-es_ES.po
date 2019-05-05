@@ -1,0 +1,631 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Facebook Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-11 00:14+0500\n"
+"PO-Revision-Date: 2018-09-11 00:15+0500\n"
+"Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language-Team: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+
+#: classes/class-wpfc.php:224
+msgid "WP Facebook Comments Settings!"
+msgstr "¡Configuración de comentarios de Facebook de WP!"
+
+#: classes/class-wpfc.php:245
+msgid "Facebook App ID"
+msgstr "ID de la aplicación de Facebook"
+
+#: classes/class-wpfc.php:253
+msgid "Number of comments to show!"
+msgstr "Números de comentarios a mostrar"
+
+#: classes/class-wpfc.php:261
+msgid "Width of the comments box!"
+msgstr "¡Ancho de la caja de comentarios!"
+
+#: classes/class-wpfc.php:269
+msgid "Color scheme!"
+msgstr "Esquema de color"
+
+#: classes/class-wpfc.php:277
+msgid "Order by!"
+msgstr "Ordenar por!"
+
+#: classes/class-wpfc.php:285
+msgid "Language"
+msgstr "Idioma"
+
+#: classes/class-wpfc.php:293
+msgid "Select post types to show Facebook comments!"
+msgstr "¡Seleccionar tipos de post para mostrar comentarios de Facebook!"
+
+#: classes/class-wpfc.php:354
+msgid "If you want to moderate the comments, we recommend you specify a "
+msgstr "Si quieres moderar los comentarios, le recomendamos que especifique un"
+
+#: classes/class-wpfc.php:356
+msgid " ID. Please check our video tutorial about "
+msgstr " ID. por favor revise nuestro video tutorial sobre"
+
+#: classes/class-wpfc.php:357
+msgid "How to create Facebook App v2.11"
+msgstr "Cómo Crear la Aplicación de Facebook"
+
+#: classes/class-wpfc.php:375
+msgid "The number of comments to show. The minimum value is 1"
+msgstr "El número de comentarios a mostrar. El valor mínimo es 1"
+
+#: classes/class-wpfc.php:392
+msgid "Leave blank for full width."
+msgstr "Deje en blanco para el ancho completo."
+
+#: classes/class-wpfc.php:410
+#, fuzzy
+msgid "Light"
+msgstr "Claro"
+
+#: classes/class-wpfc.php:414
+#, fuzzy
+msgid "Dark"
+msgstr "Oscuro"
+
+#: classes/class-wpfc.php:431
+msgid "Top"
+msgstr "Arriba"
+
+#: classes/class-wpfc.php:432
+msgid "Highest quality comments."
+msgstr "Más comentarios de calidad."
+
+#: classes/class-wpfc.php:435
+msgid "Time"
+msgstr "Hora"
+
+#: classes/class-wpfc.php:436
+msgid "Oldest comments at the top."
+msgstr "Comentarios más antiguos en la parte superior."
+
+#: classes/class-wpfc.php:439
+msgid "Reverse Time"
+msgstr "Retroceder"
+
+#: classes/class-wpfc.php:440
+msgid "Newest comments at the top."
+msgstr "Comentarios más recientes en la parte superior."
+
+#: classes/class-wpfc.php:464
+msgid "Select language."
+msgstr "Seleccione el idioma"
+
+#: classes/class-wpfc.php:524
+msgid "Facebook Comments Moderation?"
+msgstr "¿Moderación de comentarios de Facebook?"
+
+#: classes/class-wpfc.php:536
+msgid "Post Types for Comments!"
+msgstr "¡Publica tipos de comentarios!"
+
+#: classes/class-wpfc.php:539
+msgid "Please use shortcode "
+msgstr "Por favor, utilice el código"
+
+#: classes/class-wpfc.php:541
+msgid " for pages and manual comments!"
+msgstr " ¡para páginas y comentarios de manual!"
+
+#: right_area.php:66
+msgid "Liked WP Facebook Comments?"
+msgstr "¿Le gustaba WP Facebook comentarios?"
+
+#: right_area.php:75
+msgid "Need more help? Please contact: "
+msgstr "¿Necesitas más ayuda? Por favor, póngase en contacto con:"
+
+#: right_area.php:78
+msgid "Contact Us"
+msgstr "Contacte con nosotros"
+
+#: wpfc.options.php:4
+msgid "WP Facebook Comments Options"
+msgstr "Opciones de comentarios de Facebook de WP"
+
+#: wpfc.options.php:10
+msgid "Important Notice:"
+msgstr "Aviso importante:"
+
+#: wpfc.options.php:12
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+"Estás utilizando Internet Explorer. Este plugin puede no funcionar "
+"correctamente con IE. Por favor, utilice otro navegador."
+
+#: wpfc.options.php:13
+msgid "Recommended: Google Chrome."
+msgstr "Recomendado: Google Chrome."
+
+#: wpfc.options.php:20
+msgid "Comments Box!"
+msgstr "Cuadro de comentarios"
+
+#: wpfc.plugins.php:1
+msgid "You may also like!"
+msgstr "También te puede interesar:"
+
+#: wpfc.plugins.php:12
+#, fuzzy
+msgid "* WooSocio Free version *"
+msgstr "* Versión gratuita de WooSocio *"
+
+#: wpfc.plugins.php:13
+#, fuzzy
+msgid "* Post product to Facebook, pages and groups"
+msgstr "* Publicar producto en Facebook, páginas y grupos"
+
+#: wpfc.plugins.php:14
+msgid "* post to groups you dont manage."
+msgstr "* publicar en grupos que no administra"
+
+#: wpfc.plugins.php:15
+#, fuzzy
+msgid "* Add widget for Facebook like box"
+msgstr "* Agregar widget para Facebook como cuadro"
+
+#: wpfc.plugins.php:16
+msgid "* Multi user ready"
+msgstr "* Multi usuario listo"
+
+#: wpfc.plugins.php:17
+#, fuzzy
+msgid "* Post as image or link"
+msgstr "* Publicar como imagen o enlace"
+
+#: wpfc.plugins.php:18 wpfc.plugins.php:60
+msgid "* And many more..."
+msgstr "y muchos otros..."
+
+#: wpfc.plugins.php:34
+msgid "* WooTweet Free *"
+msgstr "* WooTweet gratis *"
+
+#: wpfc.plugins.php:36
+msgid "* Post product to Twitter"
+msgstr "* Producto post a Twitter"
+
+#: wpfc.plugins.php:37
+msgid "* Post products multiple times(on every update)      "
+msgstr "* Publicar productos varias veces (en cada actualización)"
+
+#: wpfc.plugins.php:38
+#, fuzzy
+msgid "* Add Tweet Widget for latest Tweets"
+msgstr "* Agregar widget de Tweet para los últimos Tweets"
+
+#: wpfc.plugins.php:39
+msgid "* And many more to come..."
+msgstr "* Y muchos más por venir ..."
+
+#: wpfc.plugins.php:55
+msgid "* WP Instagram Post *"
+msgstr "* WP Instagram Post *"
+
+#: wpfc.plugins.php:56
+msgid "* Post any type of post to Instagram."
+msgstr "* Publica cualquier tipo de publicación en Instagram."
+
+#: wpfc.plugins.php:57
+msgid "* Post product price, currency symbol, link, details."
+msgstr ""
+"* Publicar el precio del producto, símbolo de moneda, enlace, detalles."
+
+#: wpfc.plugins.php:58
+msgid "* Post products multiple times. (on every update)"
+msgstr "* Publicar productos varias veces (en cada actualización)"
+
+#: wpfc.plugins.php:59
+msgid "* Simple to use with Instagram user and password."
+msgstr "* Fácil de usar con Instagram usuario y contraseña."
+
+#~ msgid "Image"
+#~ msgstr "Imagen"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "Like/ Share Button?"
+#~ msgstr "Como / Compartir Button?"
+
+#~ msgid "Posted to Facebook?"
+#~ msgstr "Publicado en Facebook?"
+
+#~ msgid "Custom Message"
+#~ msgstr "Mensaje personalizado"
+
+#~ msgid "WooSocio:"
+#~ msgstr "WooSocio:"
+
+#~ msgid "Not Connected"
+#~ msgstr "No conectado"
+
+#~ msgid "Connect"
+#~ msgstr "Conectar"
+
+#~ msgid "Show Like/Share buttons?"
+#~ msgstr "Mostrar Como botones / Compartir?"
+
+#~ msgid "Post to Facebook?"
+#~ msgstr "Subir a Facebook?"
+
+#~ msgid "Custom Message: (No html tags)"
+#~ msgstr "Mensaje personalizado: (No hay etiquetas html)"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Edit"
+#~ msgstr "Editar"
+
+#~ msgid "WooSocio Options"
+#~ msgstr "Opciones WooSocio"
+
+#~ msgid "Post to Facebook every time on product update?"
+#~ msgstr ""
+#~ "¿Enviar mensajes a Facebook cada vez en la actualización de producto?"
+
+#~ msgid "Get error notifications by email?"
+#~ msgstr "¿Obtener notificaciones de error por correo electrónico?"
+
+#~ msgid "Post product as "
+#~ msgstr "Producto de post como"
+
+#~ msgid "Enter group IDs, separated by comma!"
+#~ msgstr "¡Introduzca el ID de grupo, separados por comas!"
+
+#~ msgid "Link"
+#~ msgstr "Enlace"
+
+#~ msgid "Picture"
+#~ msgstr "Imagen"
+
+#~ msgid ""
+#~ "This option provide you the ability to post on the groups you don't "
+#~ "manage. "
+#~ msgstr ""
+#~ "Esta opción te ofrecen la posibilidad de publicar en los grupos que no "
+#~ "consiguen."
+
+#~ msgid "But you should be the member of the group to post! "
+#~ msgstr "Pero debe ser miembro del grupo para publicar!"
+
+#~ msgid "Need to find group ID? "
+#~ msgstr "¿Necesidad de encontrar el ID de grupo?"
+
+#~ msgid "Click here!"
+#~ msgstr "¡Haz clic aquí!"
+
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
+
+#~ msgid "Price: "
+#~ msgstr "Precio: "
+
+#~ msgid "See here: "
+#~ msgstr "Ver acá: "
+
+#~ msgid "Dear user,"
+#~ msgstr "Estimado usuario"
+
+#~ msgid "Your product ID "
+#~ msgstr "Su Productos"
+
+#~ msgid " not posted on Facebook due to following reason."
+#~ msgstr "no Publicada en Facebook por el siguiente motivo."
+
+#~ msgid "WooSocio - Notification"
+#~ msgstr "WooSocio - notificación"
+
+#~ msgid "Connection Updated!"
+#~ msgstr "¡Enlace actualizado!"
+
+#~ msgid "Unable to update shared connection! Please try again."
+#~ msgstr ""
+#~ "No es posible actualizar la conexión compartida. Por favor, inténtelo de "
+#~ "nuevo."
+
+#~ msgid "Page Info Updated!"
+#~ msgstr "Información de la página Actualizada!"
+
+#~ msgid "Unable to update page info! Please try again."
+#~ msgstr ""
+#~ "No se puede actualizar las páginas de información! Por favor, inténtelo "
+#~ "de nuevo."
+
+#~ msgid "Deleted"
+#~ msgstr "Eliminado"
+
+#~ msgid "Error deleting connection! Please try later!"
+#~ msgstr "Error al eliminar la conexión. Por favor Inténtalo más tarde!"
+
+#~ msgid "WooSocio - Facebook Like Box"
+#~ msgstr "WooSocio - caja de Facebook como"
+
+#~ msgid "A WooSocio Widget to show Facebook Like Box!"
+#~ msgstr "¡Un WooSocio Widget para mostrar como el recuadro de Facebook!"
+
+#~ msgid "Facebook Like Box"
+#~ msgstr "Botón “Me gusta” de Facebook"
+
+#~ msgid "Facebook Page URL"
+#~ msgstr "URL página de Facebook"
+
+#~ msgid "Show tabs:"
+#~ msgstr "Mostrar Pestaña:"
+
+#~ msgid "Timeline"
+#~ msgstr "Línea de tiempo"
+
+#~ msgid "Events"
+#~ msgstr "Anuncios De Servicios"
+
+#~ msgid "Messages"
+#~ msgstr "Mensajes"
+
+#~ msgid "Width"
+#~ msgstr "Ancho"
+
+#~ msgid "The pixel width of the embed (Min. 180 to Max. 500)"
+#~ msgstr "El ancho de píxel de embed (mín. 180 a 500 máx.)"
+
+#~ msgid "Height"
+#~ msgstr "Altura"
+
+#~ msgid "The pixel height of the embed (Min. 70)"
+#~ msgstr "La altura del pixel del embed (Min. 70)"
+
+#~ msgid "Uses a smaller version of the page header"
+#~ msgstr "Utiliza una versión más pequeña de la cabecera de página"
+
+#~ msgid "Use Small Header"
+#~ msgstr "Usar Cabecera Pequeña"
+
+#~ msgid "Plugin will try to fit inside the container"
+#~ msgstr "Plugin intentará encajar dentro del contenedor"
+
+#~ msgid "Adapt to plugin container width"
+#~ msgstr "Adaptarse al ancho del contenedor plugin"
+
+#~ msgid "Hide the cover photo in the header"
+#~ msgstr "Ocultar la foto de la portada en la cabecera"
+
+#~ msgid "Hide Cover Photo"
+#~ msgstr "Ocultar foto de cubierta"
+
+#~ msgid "Show profile photos when friends like this"
+#~ msgstr "Mostrar fotos de perfil cuando a los amigos les gusta esto"
+
+#~ msgid "Show Friend's Faces"
+#~ msgstr "Mostrar las caras del amigo"
+
+#~ msgid "WooSocio Pro is here"
+#~ msgstr "WooSocio Pro es aquí"
+
+#~ msgid "Liked WooSocio?"
+#~ msgstr "Me gustó WooSocio?"
+
+#~ msgid "WooSocio Login"
+#~ msgstr "WooSocio Login"
+
+#~ msgid ""
+#~ "Connect your site to social networking sites and automatically share new "
+#~ "products with your friends."
+#~ msgstr ""
+#~ "Conecte su sitio a los sitios de redes sociales y compartir "
+#~ "automáticamente los nuevos productos con tus amigos."
+
+#~ msgid "You can use like/share buttons without connecting or App ID"
+#~ msgstr "Puede utilizar como botones / share sin conectar o App ID"
+
+#~ msgid "Connected as:"
+#~ msgstr "Conectado como:"
+
+#~ msgid "Disconnect"
+#~ msgstr "Desconectar"
+
+#~ msgid "Show App Details"
+#~ msgstr "Mostrar App Detalles"
+
+#~ msgid "Your App ID:"
+#~ msgstr "Tu App ID:"
+
+#~ msgid "App ID"
+#~ msgstr "App ID"
+
+#~ msgid "Don't have an app? You can get from "
+#~ msgstr "¿No tienes una aplicación? Usted puede obtener de"
+
+#~ msgid "Your App Secret:"
+#~ msgstr "Tu App Secret:"
+
+#~ msgid "App Secret"
+#~ msgstr "App Secret"
+
+#~ msgid "Need more help? "
+#~ msgstr "¿Necesitas más ayuda?"
+
+#~ msgid "Click here"
+#~ msgstr "Haga clic aquí"
+
+#~ msgid "How to create Facebook App v2.10 for WooSocio"
+#~ msgstr "Cómo crear Facebook App v2.10 para WooSocio"
+
+#~ msgid "from"
+#~ msgstr "de"
+
+#~ msgid "on"
+#~ msgstr "el"
+
+#~ msgid "Shared connection?"
+#~ msgstr "¿Conexión compartida?"
+
+#~ msgid "Available this connection for all WooSocio users?"
+#~ msgstr "¿Disponible esta conexión para todos los usuarios de WooSocio?"
+
+#~ msgid "Pages"
+#~ msgstr "Páginas"
+
+#~ msgid "Personal Page (Wall)"
+#~ msgstr "Página Personal (Wall)"
+
+#~ msgid "Groups"
+#~ msgstr "Grupos"
+
+#~ msgid "Other Groups"
+#~ msgstr "Otros grupos"
+
+#~ msgid "Available Connection"
+#~ msgstr "Conexión disponible"
+
+#~ msgid "Connected!"
+#~ msgstr "Conectado!"
+
+#~ msgid "Shared!"
+#~ msgstr "Shared!"
+
+#~ msgid "Delete connection!"
+#~ msgstr "Borrar conexión"
+
+#~ msgid "App Permissions"
+#~ msgstr "Permisos de la aplicación:"
+
+#~ msgid "* Post products multiple times (on every update)"
+#~ msgstr "* Publicar productos varias veces (en cada actualización)"
+
+#~ msgid "* WooSocio Pro version *"
+#~ msgstr "* WooSocio versión Pro *"
+
+#~ msgid "* product gallery images as Facebook gallery"
+#~ msgstr "* Galería de imágenes de producto como Galería de Facebook"
+
+#~ msgid "* post to multiple pages and/or groups at once"
+#~ msgstr "* publicar múltiples páginas o grupos a la vez"
+
+#~ msgid "* Optional time delay between posting"
+#~ msgstr "* Opcional tiempo de espera entre la publicación"
+
+#~ msgid "* Bulk posts to pages, groups"
+#~ msgstr "* Bulto entradas a páginas, grupos"
+
+#~ msgid "* Bulk like/share button on/off option"
+#~ msgstr "* Granel como el botón / acción encendido / apagado opción"
+
+#~ msgid "Link: "
+#~ msgstr "Enlace:"
+
+#~ msgid "WooSocio Logins"
+#~ msgstr "WooSocio Logins"
+
+#~ msgid "How to create Facebook App v2.8 for WooSocio"
+#~ msgstr "Cómo crear Facebook App v2.8 para WooSocio"
+
+#~ msgid "Post to:"
+#~ msgstr "Publicar en:"
+
+#~ msgid "Pages:"
+#~ msgstr "Páginas:"
+
+#~ msgid "Groups:"
+#~ msgstr "Grupos:"
+
+#~ msgid "Connected as: "
+#~ msgstr "Conectado como"
+
+#~ msgid "App Permissions:"
+#~ msgstr "Permisos de la aplicación:"
+
+#~ msgid "* File Manager *"
+#~ msgstr "Administrador de archivos"
+
+#~ msgid "* BuddyPress Group File Share."
+#~ msgstr "* BuddyPress grupo compartido."
+
+#~ msgid "* Create Download Area."
+#~ msgstr "* Crear la zona de descargas."
+
+#~ msgid "* Group file sharing."
+#~ msgstr "* Grupo de uso compartido de archivos."
+
+#~ msgid "* Seven types of input fields."
+#~ msgstr "* Siete tipos de campos de entrada."
+
+#~ msgid "* FTP files upload for Users by Admin ( v 9.3+ )"
+#~ msgstr "* Subir archivos FTP usuarios por Admin (v 9.3 +)"
+
+#~ msgid "* Front end File Searching and Pagination."
+#~ msgstr "* Frontal final archivo búsqueda y paginación."
+
+#~ msgid "Post to facebook everytime on product update?"
+#~ msgstr ""
+#~ "¿Enviar mensajes a facebook cada vez que el producto de actualización?"
+
+#~ msgid "WooSocio"
+#~ msgstr "WooSocio"
+
+#~ msgid "* Post on page as page owner (post from page)"
+#~ msgstr ""
+#~ "* Publicar en la página como titular de la página (el post de la página)"
+
+#~ msgid "* post products with optional time delay between posting"
+#~ msgstr ""
+#~ "* productos con retraso de tiempo opcional entre publicación de post"
+
+#~ msgid "* Bulk posts to pages, groups (multiple posts at once)"
+#~ msgstr "* Bulto entradas a páginas, grupos (varios mensajes a la vez)"
+
+#~ msgid "* Add Facebook like/share buttons on product page"
+#~ msgstr "* Añadir Facebook like/share botones en la página de producto"
+
+#~ msgid "* Rich product page"
+#~ msgstr "* Página Rich producto"
+
+#~ msgid "* You may also like *"
+#~ msgstr "* Posiblemente le gustan también *"
+
+#~ msgid "* Bulk like/share button on/off option."
+#~ msgstr "* Bulto como/acción botón de encendido/apagado opción."
+
+#~ msgid "Visit our site for details"
+#~ msgstr "Visite nuestro sitio para más detalles"
+
+#~ msgid "This section description"
+#~ msgstr "Esta descripción de sección"
+
+#~ msgid "* Post as page owner rather highlighted post."
+#~ msgstr "* Post como propietario de la página en vez de relieve mensaje."
+
+#~ msgid "* post to multiple pages at once."
+#~ msgstr "* Publicación de varias páginas a la vez."
+
+#~ msgid "* Post products multiple times (Post more than once)"
+#~ msgstr "* Colocar nuestros productos varias veces (Agrega más de una vez)"
+
+#~ msgid "* Bulk posts to pages (multiple posts at once)"
+#~ msgstr "* Mensajes a granel a páginas (varias entradas a la vez)"
+
+#~ msgid "* Bulk edit message"
+#~ msgstr "* Mensaje a granel edición"

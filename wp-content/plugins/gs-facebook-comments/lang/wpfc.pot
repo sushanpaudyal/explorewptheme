@@ -1,0 +1,232 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Facebook Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-11 00:13+0500\n"
+"PO-Revision-Date: 2014-11-28 23:35+0500\n"
+"Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language-Team: GenialSouls <info@genialsouls.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e;_\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-wpfc.php:224
+msgid "WP Facebook Comments Settings!"
+msgstr ""
+
+#: classes/class-wpfc.php:245
+msgid "Facebook App ID"
+msgstr ""
+
+#: classes/class-wpfc.php:253
+msgid "Number of comments to show!"
+msgstr ""
+
+#: classes/class-wpfc.php:261
+msgid "Width of the comments box!"
+msgstr ""
+
+#: classes/class-wpfc.php:269
+msgid "Color scheme!"
+msgstr ""
+
+#: classes/class-wpfc.php:277
+msgid "Order by!"
+msgstr ""
+
+#: classes/class-wpfc.php:285
+msgid "Language"
+msgstr ""
+
+#: classes/class-wpfc.php:293
+msgid "Select post types to show Facebook comments!"
+msgstr ""
+
+#: classes/class-wpfc.php:354
+msgid "If you want to moderate the comments, we recommend you specify a "
+msgstr ""
+
+#: classes/class-wpfc.php:356
+msgid " ID. Please check our video tutorial about "
+msgstr ""
+
+#: classes/class-wpfc.php:357
+msgid "How to create Facebook App v2.11"
+msgstr ""
+
+#: classes/class-wpfc.php:375
+msgid "The number of comments to show. The minimum value is 1"
+msgstr ""
+
+#: classes/class-wpfc.php:392
+msgid "Leave blank for full width."
+msgstr ""
+
+#: classes/class-wpfc.php:410
+msgid "Light"
+msgstr ""
+
+#: classes/class-wpfc.php:414
+msgid "Dark"
+msgstr ""
+
+#: classes/class-wpfc.php:431
+msgid "Top"
+msgstr ""
+
+#: classes/class-wpfc.php:432
+msgid "Highest quality comments."
+msgstr ""
+
+#: classes/class-wpfc.php:435
+msgid "Time"
+msgstr ""
+
+#: classes/class-wpfc.php:436
+msgid "Oldest comments at the top."
+msgstr ""
+
+#: classes/class-wpfc.php:439
+msgid "Reverse Time"
+msgstr ""
+
+#: classes/class-wpfc.php:440
+msgid "Newest comments at the top."
+msgstr ""
+
+#: classes/class-wpfc.php:464
+msgid "Select language."
+msgstr ""
+
+#: classes/class-wpfc.php:524
+msgid "Facebook Comments Moderation?"
+msgstr ""
+
+#: classes/class-wpfc.php:536
+msgid "Post Types for Comments!"
+msgstr ""
+
+#: classes/class-wpfc.php:539
+msgid "Please use shortcode "
+msgstr ""
+
+#: classes/class-wpfc.php:541
+msgid " for pages and manual comments!"
+msgstr ""
+
+#: right_area.php:66
+msgid "Liked WP Facebook Comments?"
+msgstr ""
+
+#: right_area.php:75
+msgid "Need more help? Please contact: "
+msgstr ""
+
+#: right_area.php:78
+msgid "Contact Us"
+msgstr ""
+
+#: wpfc.options.php:4
+msgid "WP Facebook Comments Options"
+msgstr ""
+
+#: wpfc.options.php:10
+msgid "Important Notice:"
+msgstr ""
+
+#: wpfc.options.php:12
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+
+#: wpfc.options.php:13
+msgid "Recommended: Google Chrome."
+msgstr ""
+
+#: wpfc.options.php:20
+msgid "Comments Box!"
+msgstr ""
+
+#: wpfc.plugins.php:1
+msgid "You may also like!"
+msgstr ""
+
+#: wpfc.plugins.php:12
+msgid "* WooSocio Free version *"
+msgstr ""
+
+#: wpfc.plugins.php:13
+msgid "* Post product to Facebook, pages and groups"
+msgstr ""
+
+#: wpfc.plugins.php:14
+msgid "* post to groups you dont manage."
+msgstr ""
+
+#: wpfc.plugins.php:15
+msgid "* Add widget for Facebook like box"
+msgstr ""
+
+#: wpfc.plugins.php:16
+msgid "* Multi user ready"
+msgstr ""
+
+#: wpfc.plugins.php:17
+msgid "* Post as image or link"
+msgstr ""
+
+#: wpfc.plugins.php:18 wpfc.plugins.php:60
+msgid "* And many more..."
+msgstr ""
+
+#: wpfc.plugins.php:34
+msgid "* WooTweet Free *"
+msgstr ""
+
+#: wpfc.plugins.php:36
+msgid "* Post product to Twitter"
+msgstr ""
+
+#: wpfc.plugins.php:37
+msgid "* Post products multiple times(on every update)      "
+msgstr ""
+
+#: wpfc.plugins.php:38
+msgid "* Add Tweet Widget for latest Tweets"
+msgstr ""
+
+#: wpfc.plugins.php:39
+msgid "* And many more to come..."
+msgstr ""
+
+#: wpfc.plugins.php:55
+msgid "* WP Instagram Post *"
+msgstr ""
+
+#: wpfc.plugins.php:56
+msgid "* Post any type of post to Instagram."
+msgstr ""
+
+#: wpfc.plugins.php:57
+msgid "* Post product price, currency symbol, link, details."
+msgstr ""
+
+#: wpfc.plugins.php:58
+msgid "* Post products multiple times. (on every update)"
+msgstr ""
+
+#: wpfc.plugins.php:59
+msgid "* Simple to use with Instagram user and password."
+msgstr ""
